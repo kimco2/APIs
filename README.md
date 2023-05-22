@@ -1,6 +1,6 @@
 # Weather and possible holiday destinations
 
- ### **Overview**
+### **Overview**
 Using the [OpenWeatherMap API](https://openweathermap.org/api) retrieved data to better understand the relationship between weather variables and latitude and plan future vacations with this and [hotel data](https://www.geoapify.com/geocoding-api?gclid=CjwKCAjwgqejBhBAEiwAuWHioC6hFOGxHoCRs0KZLWELMxnULEudo2_Ptf8bx-2U1KRCpNkXJF47yBoChqIQAvD_BwE)
 
 
